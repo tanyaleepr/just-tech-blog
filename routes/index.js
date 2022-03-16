@@ -11,4 +11,3 @@ router.use((req, res) => {
 module.exports = router;
 
 
-// this is a comment example
