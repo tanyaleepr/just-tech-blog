@@ -27,7 +27,9 @@
     "handlebars": "^4.7.7",
     "jest": "^27.5.1",
     "mysql2": "^2.3.3",
-    "sequelize": "^6.17.0"
+    "seed": "^0.4.4",
+    "sequelize": "^6.17.0",
+    "serve": "^13.0.2"
   },
   "devDependencies": {
     "jest": "^25.1.0"
