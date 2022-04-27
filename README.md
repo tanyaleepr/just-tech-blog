@@ -15,7 +15,6 @@ In this module, I built the back end for my first completely full-stack applicat
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
-- [Tests](#tests)
 - [Questions](#questions)
   <a name="installation"></a>
 
